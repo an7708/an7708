@@ -1,6 +1,6 @@
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anishamadhukar/)  
-- [Twitter]([https://github.com/an7708](https://x.com/sleepanddrugs))  
+- [Twitter](https://x.com/sleepanddrugs)  
 - [LeetCode](https://leetcode.com/u/Madhukar2005/)  
 - [CodeChef](https://www.codechef.com/users/tokyo739575)  
 - [Codeforces](https://codeforces.com/profile/tokyo2974923)  
