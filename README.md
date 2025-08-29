@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Anisha Madhukar  
 
-Languages
-JavaScript TypeScript C++ HTML5 CSS3
+💻 Full Stack Developer | BCA Student | MERN Stack Enthusiast  
 
-Frameworks & Libraries
-React React Native Node.js Express.js Angular Bootstrap Tailwind CSS
+## 🚀 About Me
+- 🌱 Currently learning **Data Science & Advanced MERN**  
+- 🏆 Completed **Harvard CS50: Introduction to Computer Science**  
+- 💡 Passionate about **building scalable web apps** & solving **DSA problems**  
+- 🎯 Aspiring **Web Developer & Data Analyst**  
 
-Databases & Backend
-MongoDB MySQL Supabase Firebase
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, JavaScript, C# (Beginner)  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, SQL  
+- **Other Tools:** Git, Docker, RESTful APIs  
 
-Developer Tools
-Git GitHub VS Code Visual Studio
+## 📌 Projects
+- [🌍 Wanderlust](https://github.com/an7708/Wanderlust) – A travel management platform  
+- [🎥 Zoom Clone](https://github.com/an7708/Zoom) – Real-time video conferencing app  
 
-Libraries
-STL
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/anishamadhukar/)  
+- [GitHub](https://github.com/an7708)  
+- [LeetCode](https://leetcode.com/u/Madhukar2005/)  
+- [CodeChef](https://www.codechef.com/users/tokyo739575)  
+- [Codeforces](https://codeforces.com/profile/tokyo2974923)  
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
