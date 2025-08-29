@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**an7708/an7708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages
+JavaScript TypeScript C++ HTML5 CSS3
 
-Here are some ideas to get you started:
+Frameworks & Libraries
+React React Native Node.js Express.js Angular Bootstrap Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases & Backend
+MongoDB MySQL Supabase Firebase
+
+Developer Tools
+Git GitHub VS Code Visual Studio
+
+Libraries
+STL
